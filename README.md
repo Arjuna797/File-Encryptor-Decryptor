@@ -1,6 +1,18 @@
 # File-Encryptor-Decryptor
 
 <img width="1301" height="641" alt="Screenshot 2025-11-25 210058" src="https://github.com/user-attachments/assets/9bb68dc3-4316-4cd1-98f4-2923074762ed" />
+<img width="1242" height="702" alt="Screenshot 2025-08-16 183345" src="https://github.com/user-attachments/assets/8e4e8855-1522-471a-9ed9-3d3570d95165" />
+
+
+
+
+
+
+
+
+
+
+
 A simple and secure Flask-based web application that allows users to upload files and encrypt or decrypt them using Fernet (AES-128 CBC + HMAC) encryption.
 This tool ensures confidentiality by generating a unique key for every encryption session and securely handles files on the server.
 🚀 Features
