@@ -1,0 +1,5 @@
+# Ignore the encryption key file containing sensitive info
+Secret.key=zjl5MBODD8zBBulFVrKmg3Xdx7LwKVt08XbZrn2H084=
+
+# Ignore uploads folder containing user uploaded and encrypted files
+uploads/
